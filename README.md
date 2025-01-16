@@ -13,7 +13,7 @@ Outils et technologies de développement
 Langages et frameworks
 Python : Développement de la logique métier et manipulation des données.
 Flask : Framework léger pour le développement rapide d'applications web.
-JavaScript : Interactivité côté client (par exemple, chronomètres pour les quiz).
+
 HTML & CSS : Structure et mise en forme des pages web pour une expérience utilisateur cohérente.
 Bootstrap : Framework front-end pour des interfaces modernes et responsives.
 Environnement de développement
